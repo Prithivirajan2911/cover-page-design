@@ -108,7 +108,7 @@ Write your own steps here.
         <hr style="color: orange;">
     </div>
     <div class="author">
-       <p><b>KATHIR ANAND</b></p>
+       <p><b>PRITHIVIRAJAN</b></p>
     </div>
     <div class="pub">
         SEC
@@ -121,7 +121,8 @@ Write your own steps here.
 ```
 
 ## Output:
-![Screenshot from 2023-12-14 20-31-03](https://github.com/Prithivirajan2911/cover-page-design/assets/147020085/b7730a7d-ef56-469b-9358-5536861446e8)
+
+![Screenshot from 2023-12-14 20-31-03](https://github.com/Prithivirajan2911/cover-page-design/assets/147020085/2d500456-8b2e-47be-b076-5125428c5eb9)
 
 
 ## Result:
